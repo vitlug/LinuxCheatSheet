@@ -69,7 +69,7 @@ Instead, you could go with one of the many Linux Distros (Short for Distribution
 
 To find the right Distro for you, you can use: https://librehunt.org/
 
-Be sure to consult other people in Linux forums and subreddits for your doubts. You can also leave a message to VIT Linux User Group via the Issues page on our [Github Repo]() and we will try to get back to you.
+Be sure to consult other people in Linux forums and subreddits for your doubts. You can also leave a message to VIT Linux User Group via the Issues page on this Repo and we will try to get back to you.
 
 **Installing a Linux Distro**
 
